@@ -1,4 +1,4 @@
-# Programme-And-Learning-Outcomes-Summary
+# Programme And Learning Outcomes Summary
 
 <table>
 <tbody>
