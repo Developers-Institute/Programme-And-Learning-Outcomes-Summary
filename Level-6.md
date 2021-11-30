@@ -21,737 +21,656 @@
   </thead>
   <tbody>
     <tr>
-      <td align="right">1</td>
-      <td>
-        Analyse requirements and apply appropriate modelling tools, SDLC and HCI
+      <td rowspan="6" valign="top">1</td>
+      <td rowspan="6" valign="top">
+        GPO1 Analyse requirements and apply appropriate modelling tools, SDLC and HCI
         principles, to design and document software solutions for a range of
         problems in an organisational context, including creating accurate and
         clear technical and user documentation/resources.
       </td>
-      <td align="right">1</td>
+      <td>1</td>
       <td>
         Apply modelling tools to analyse and document technical requirements
       </td>
-      <td align="right">1</td>
-      <td align="right">1</td>
-      <td align="right">1</td>
-      <td align="right">1</td>
-      <td align="right">1</td>
-      <td align="right">1</td>
-      <td align="right">2</td>
-      <td align="right">1</td>
-      <td align="right">9</td>
-      <td align="right">55</td>
+      <td>1</td>
+      <td>1</td>
+      <td>1</td>
+      <td>1</td>
+      <td>1</td>
+      <td>1</td>
+      <td>2</td>
+      <td>1</td>
+      <td>9</td>
+      <td rowspan="6" valign="top">55</td>
     </tr>
     <tr>
-      <td align="right"></td>
-      <td></td>
-      <td align="right">2</td>
+      <td>2</td>
       <td>
         Design a software solution for a range of problems found in an
         organisational context.
       </td>
-      <td align="right">1</td>
-      <td align="right">1</td>
-      <td align="right">2</td>
-      <td align="right">1</td>
-      <td align="right">2</td>
-      <td align="right">1</td>
-      <td align="right">2</td>
-      <td align="right">1</td>
-      <td align="right">11</td>
-      <td align="right"></td>
+      <td>1</td>
+      <td>1</td>
+      <td>2</td>
+      <td>1</td>
+      <td>2</td>
+      <td>1</td>
+      <td>2</td>
+      <td>1</td>
+      <td>11</td>
     </tr>
     <tr>
-      <td align="right"></td>
-      <td></td>
-      <td align="right">3</td>
+      <td>3</td>
       <td>
         Demonstrate and apply Design Thinking principles and processes when
         considering the design of user experience (UX).
       </td>
-      <td align="right"></td>
-      <td align="right"></td>
-      <td align="right">2</td>
-      <td align="right">2</td>
-      <td align="right"></td>
-      <td align="right">2</td>
-      <td align="right">2</td>
-      <td align="right">2</td>
-      <td align="right">10</td>
-      <td align="right"></td>
+      <td></td>
+      <td></td>
+      <td>2</td>
+      <td>2</td>
+      <td></td>
+      <td>2</td>
+      <td>2</td>
+      <td>2</td>
+      <td>10</td>
     </tr>
     <tr>
-      <td align="right"></td>
-      <td></td>
-      <td align="right">4</td>
+      <td>4</td>
       <td>
         Utilize software development life cycle planning (SDLC) techniques.
       </td>
-      <td align="right"></td>
-      <td align="right">2</td>
-      <td align="right">2</td>
-      <td align="right">2</td>
-      <td align="right">1</td>
-      <td align="right">2</td>
-      <td align="right">1</td>
-      <td align="right">2</td>
-      <td align="right">12</td>
-      <td align="right"></td>
+      <td></td>
+      <td>2</td>
+      <td>2</td>
+      <td>2</td>
+      <td>1</td>
+      <td>2</td>
+      <td>1</td>
+      <td>2</td>
+      <td>12</td>
     </tr>
     <tr>
-      <td align="right"></td>
-      <td></td>
-      <td align="right">5</td>
+      <td>5</td>
       <td>
         Create useful, accurate and clear technical documentation for
         development peers and end users
       </td>
-      <td align="right"></td>
-      <td align="right">2</td>
-      <td align="right">2</td>
-      <td align="right">1</td>
-      <td align="right">2</td>
-      <td align="right">1</td>
-      <td align="right">2</td>
-      <td align="right">1</td>
-      <td align="right">11</td>
-      <td align="right"></td>
-    </tr>
-    <tr>
-      <td align="right"></td>
       <td></td>
-      <td align="right">6</td>
-      <td>Design an interface meeting accessibility needs</td>
-      <td align="right">2</td>
-      <td align="right"></td>
-      <td align="right"></td>
-      <td align="right"></td>
-      <td align="right"></td>
-      <td align="right"></td>
-      <td align="right"></td>
-      <td align="right"></td>
-      <td align="right">2</td>
-      <td align="right"></td>
+      <td>2</td>
+      <td>2</td>
+      <td>1</td>
+      <td>2</td>
+      <td>1</td>
+      <td>2</td>
+      <td>1</td>
+      <td>11</td>
     </tr>
     <tr>
-      <td align="right">2</td>
-      <td>
+      <td>6</td>
+      <td>Design an interface meeting accessibility needs</td>
+      <td>2</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td rowspan="10" valign="top">2</td>
+      <td rowspan="10" valign="top">
         Write and maintain complex programs using design patterns, data
         structures and algorithms to meet specifications and software
         development standards.
       </td>
-      <td align="right">7</td>
+      <td>7</td>
       <td>
         Write and maintain complex programs in multiple common programming
         languages and integrated development environments (IDEs) to meet
         specifications
       </td>
-      <td align="right"></td>
-      <td align="right"></td>
-      <td align="right"></td>
-      <td align="right">1</td>
-      <td align="right"></td>
-      <td align="right">1</td>
-      <td align="right"></td>
-      <td align="right"></td>
-      <td align="right">2</td>
-      <td align="right">70</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>1</td>
+      <td></td>
+      <td>1</td>
+      <td></td>
+      <td></td>
+      <td>2</td>
+      <td rowspan="10" valign="top">70</td>
     </tr>
     <tr>
-      <td align="right"></td>
-      <td></td>
-      <td align="right">8</td>
+      <td>8</td>
       <td>
         Develop code following design patterns and current software development
         standards
       </td>
-      <td align="right">2</td>
-      <td align="right">3</td>
-      <td align="right">1</td>
-      <td align="right">1</td>
-      <td align="right">1</td>
-      <td align="right">2</td>
-      <td align="right"></td>
-      <td align="right">1</td>
-      <td align="right">11</td>
-      <td align="right"></td>
+      <td>2</td>
+      <td>3</td>
+      <td>1</td>
+      <td>1</td>
+      <td>1</td>
+      <td>2</td>
+      <td></td>
+      <td>1</td>
+      <td>11</td>
     </tr>
     <tr>
-      <td align="right"></td>
-      <td></td>
-      <td align="right">9</td>
+      <td>9</td>
       <td>
         Apply optimisation concepts and techniques; demonstrate effective
         debugging techniques and bug reporting
       </td>
-      <td align="right"></td>
-      <td align="right"></td>
-      <td align="right">1</td>
-      <td align="right">1</td>
-      <td align="right">2</td>
-      <td align="right"></td>
-      <td align="right"></td>
-      <td align="right">2</td>
-      <td align="right">6</td>
-      <td align="right"></td>
+      <td></td>
+      <td></td>
+      <td>1</td>
+      <td>1</td>
+      <td>2</td>
+      <td></td>
+      <td></td>
+      <td>2</td>
+      <td>6</td>
     </tr>
     <tr>
-      <td align="right"></td>
-      <td></td>
-      <td align="right">10</td>
+      <td>10</td>
       <td>
         Utilize coding best practices including code commenting to maintain
         readable and understandable software code
       </td>
-      <td align="right">2</td>
-      <td align="right">2</td>
-      <td align="right"></td>
-      <td align="right">1</td>
-      <td align="right"></td>
-      <td align="right">2</td>
-      <td align="right"></td>
-      <td align="right">1</td>
-      <td align="right">8</td>
-      <td align="right"></td>
+      <td>2</td>
+      <td>2</td>
+      <td></td>
+      <td>1</td>
+      <td></td>
+      <td>2</td>
+      <td></td>
+      <td>1</td>
+      <td>8</td>
     </tr>
     <tr>
-      <td align="right"></td>
-      <td></td>
-      <td align="right">11</td>
+      <td>11</td>
       <td>Performing and receiving code reviews</td>
-      <td align="right">1</td>
-      <td align="right">1</td>
-      <td align="right">2</td>
-      <td align="right">2</td>
-      <td align="right">2</td>
-      <td align="right">2</td>
-      <td align="right"></td>
-      <td align="right">2</td>
-      <td align="right">12</td>
-      <td align="right"></td>
+      <td>1</td>
+      <td>1</td>
+      <td>2</td>
+      <td>2</td>
+      <td>2</td>
+      <td>2</td>
+      <td></td>
+      <td>2</td>
+      <td>12</td>
     </tr>
     <tr>
-      <td align="right"></td>
-      <td></td>
-      <td align="right">12</td>
+      <td>12</td>
       <td>managing bug reports and issue tracking</td>
-      <td align="right"></td>
-      <td align="right"></td>
-      <td align="right">1</td>
-      <td align="right">2</td>
-      <td align="right">2</td>
-      <td align="right">1</td>
-      <td align="right"></td>
-      <td align="right">2</td>
-      <td align="right">8</td>
-      <td align="right"></td>
+      <td></td>
+      <td></td>
+      <td>1</td>
+      <td>2</td>
+      <td>2</td>
+      <td>1</td>
+      <td></td>
+      <td>2</td>
+      <td>8</td>
     </tr>
     <tr>
-      <td align="right"></td>
-      <td></td>
-      <td align="right">13</td>
+      <td>13</td>
       <td>
         Migrate from one tool or system to another and migrate from one language
         to another
       </td>
-      <td align="right"></td>
-      <td align="right"></td>
-      <td align="right"></td>
-      <td align="right">1</td>
-      <td align="right"></td>
-      <td align="right">1</td>
-      <td align="right"></td>
-      <td align="right"></td>
-      <td align="right">2</td>
-      <td align="right"></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>1</td>
+      <td></td>
+      <td>1</td>
+      <td></td>
+      <td></td>
+      <td>2</td>
     </tr>
     <tr>
-      <td align="right"></td>
-      <td></td>
-      <td align="right">14</td>
+      <td>14</td>
       <td>Use software development standards to implement a user interface</td>
-      <td align="right">7</td>
-      <td align="right">1</td>
-      <td align="right">1</td>
-      <td align="right"></td>
-      <td align="right"></td>
-      <td align="right">2</td>
-      <td align="right"></td>
-      <td align="right">1</td>
-      <td align="right">12</td>
-      <td align="right"></td>
+      <td>7</td>
+      <td>1</td>
+      <td>1</td>
+      <td></td>
+      <td></td>
+      <td>2</td>
+      <td></td>
+      <td>1</td>
+      <td>12</td>
     </tr>
     <tr>
-      <td align="right"></td>
-      <td></td>
-      <td align="right">15</td>
+      <td>15</td>
       <td>
         Implement responsive design (with device and platform independence)
         using basic principles of user interface design (UI), with
         considerations for user experience (UX), HCI principles, and universal
         accessibility
       </td>
-      <td align="right">5</td>
-      <td align="right"></td>
-      <td align="right"></td>
-      <td align="right"></td>
-      <td align="right"></td>
-      <td align="right">1</td>
-      <td align="right"></td>
-      <td align="right">1</td>
-      <td align="right">7</td>
-      <td align="right"></td>
-    </tr>
-    <tr>
-      <td align="right"></td>
+      <td>5</td>
       <td></td>
-      <td align="right">16</td>
-      <td>Apply secure software principles</td>
-      <td align="right"></td>
-      <td align="right"></td>
-      <td align="right"></td>
-      <td align="right"></td>
-      <td align="right">2</td>
-      <td align="right"></td>
-      <td align="right"></td>
-      <td align="right"></td>
-      <td align="right">2</td>
-      <td align="right"></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>1</td>
+      <td></td>
+      <td>1</td>
+      <td>7</td>
     </tr>
     <tr>
-      <td align="right">3</td>
-      <td>
+      <td>16</td>
+      <td>Apply secure software principles</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>2</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td rowspan="4" valign="top">3</td>
+      <td rowspan="4" valign="top">
         Apply a range of software quality assurance techniques, including
         designing and executing a variety of tests, to verify correctness of
         systems on a range of platforms to meet requirements, and document
         results.
       </td>
-      <td align="right">17</td>
+      <td>17</td>
       <td>
         Design, execute and document a variety of manual and automated tests
         including unit and systems testing, usability testing and user
         acceptance testing, incorporating a range of testing techniques
       </td>
-      <td align="right">2</td>
-      <td align="right">1</td>
-      <td align="right">1</td>
-      <td align="right">1</td>
-      <td align="right"></td>
-      <td align="right"></td>
-      <td align="right"></td>
-      <td align="right"></td>
-      <td align="right">5</td>
-      <td align="right">20</td>
+      <td>2</td>
+      <td>1</td>
+      <td>1</td>
+      <td>1</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>5</td>
+      <td rowspan="4" valign="top">20</td>
     </tr>
     <tr>
-      <td align="right"></td>
-      <td></td>
-      <td align="right">18</td>
+      <td>18</td>
       <td>
         Run a usability test for a feature, and ensure it functions as expected
         on a range of browsers and devices
       </td>
-      <td align="right">2</td>
-      <td align="right">2</td>
-      <td align="right"></td>
-      <td align="right">1</td>
-      <td align="right"></td>
-      <td align="right"></td>
-      <td align="right"></td>
-      <td align="right"></td>
-      <td align="right">5</td>
-      <td align="right"></td>
+      <td>2</td>
+      <td>2</td>
+      <td></td>
+      <td>1</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>5</td>
     </tr>
     <tr>
-      <td align="right"></td>
-      <td></td>
-      <td align="right">19</td>
+      <td>19</td>
       <td>
         Develop automated unit and integration tests that verify a feature meets
         the requirements
       </td>
-      <td align="right"></td>
-      <td align="right">1</td>
-      <td align="right">2</td>
-      <td align="right">2</td>
-      <td align="right"></td>
-      <td align="right"></td>
-      <td align="right"></td>
-      <td align="right"></td>
-      <td align="right">5</td>
-      <td align="right"></td>
+      <td></td>
+      <td>1</td>
+      <td>2</td>
+      <td>2</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>5</td>
     </tr>
     <tr>
-      <td align="right"></td>
-      <td></td>
-      <td align="right">20</td>
+      <td>20</td>
       <td>
         Write user acceptance tests for a feature and ensure they are met when
         the feature is complete
       </td>
-      <td align="right"></td>
-      <td align="right">1</td>
-      <td align="right">2</td>
-      <td align="right">2</td>
-      <td align="right"></td>
-      <td align="right"></td>
-      <td align="right"></td>
-      <td align="right"></td>
-      <td align="right">5</td>
-      <td align="right"></td>
+      <td></td>
+      <td>1</td>
+      <td>2</td>
+      <td>2</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>5</td>
     </tr>
     <tr>
-      <td align="right">4</td>
-      <td>
+      <td rowspan="2" valign="top">4</td>
+      <td rowspan="2" valign="top">
         Apply data management and storage technologies to support the software
         application and the development process to match the application domain.
       </td>
-      <td align="right">21</td>
+      <td>21</td>
       <td>
         Design and implement application data access and storage technologies
       </td>
-      <td align="right"></td>
-      <td align="right">3</td>
-      <td align="right">1</td>
-      <td align="right">1</td>
-      <td align="right"></td>
-      <td align="right">1</td>
-      <td align="right">2</td>
-      <td align="right">1</td>
-      <td align="right">9</td>
-      <td align="right">20</td>
-    </tr>
-    <tr>
-      <td align="right"></td>
       <td></td>
-      <td align="right">22</td>
-      <td>Manage digital assets</td>
-      <td align="right"></td>
-      <td align="right">3</td>
-      <td align="right">2</td>
-      <td align="right">1</td>
-      <td align="right">3</td>
-      <td align="right">1</td>
-      <td align="right"></td>
-      <td align="right">1</td>
-      <td align="right">11</td>
-      <td align="right"></td>
+      <td>3</td>
+      <td>1</td>
+      <td>1</td>
+      <td></td>
+      <td>1</td>
+      <td>2</td>
+      <td>1</td>
+      <td>9</td>
+      <td rowspan="2" valign="top">20</td>
     </tr>
     <tr>
-      <td align="right">5</td>
-      <td>
+      <td>22</td>
+      <td>Manage digital assets</td>
+      <td></td>
+      <td>3</td>
+      <td>2</td>
+      <td>1</td>
+      <td>3</td>
+      <td>1</td>
+      <td></td>
+      <td>1</td>
+      <td>11</td>
+    </tr>
+    <tr>
+      <td rowspan="3" valign="top">5</td>
+      <td rowspan="3" valign="top">
         Integrate security and privacy principles throughout software
         development to ensure application security and system integrity using
         current best practices.
       </td>
-      <td align="right">23</td>
+      <td>23</td>
       <td>
         Apply security and privacy principles and current best practice in
         development
       </td>
-      <td align="right"></td>
-      <td align="right"></td>
-      <td align="right"></td>
-      <td align="right"></td>
-      <td align="right">2</td>
-      <td align="right">1</td>
-      <td align="right">1</td>
-      <td align="right"></td>
-      <td align="right">4</td>
-      <td align="right">15</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>2</td>
+      <td>1</td>
+      <td>1</td>
+      <td></td>
+      <td>4</td>
+      <td rowspan="3" valign="top">15</td>
     </tr>
     <tr>
-      <td align="right"></td>
-      <td></td>
-      <td align="right">24</td>
+      <td>24</td>
       <td>
         Establish application security utilizing encryption, authentication and
         authorization techniques
       </td>
-      <td align="right"></td>
-      <td align="right">1</td>
-      <td align="right">1</td>
-      <td align="right"></td>
-      <td align="right">2</td>
-      <td align="right">1</td>
-      <td align="right"></td>
-      <td align="right">1</td>
-      <td align="right">6</td>
-      <td align="right"></td>
+      <td></td>
+      <td>1</td>
+      <td>1</td>
+      <td></td>
+      <td>2</td>
+      <td>1</td>
+      <td></td>
+      <td>1</td>
+      <td>6</td>
     </tr>
     <tr>
-      <td align="right"></td>
-      <td></td>
-      <td align="right">25</td>
+      <td>25</td>
       <td>
         Integrate data integrity, data access permissions and data access
         techniques
       </td>
-      <td align="right"></td>
-      <td align="right"></td>
-      <td align="right"></td>
-      <td align="right"></td>
-      <td align="right">1</td>
-      <td align="right">1</td>
-      <td align="right">2</td>
-      <td align="right">1</td>
-      <td align="right">5</td>
-      <td align="right"></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>1</td>
+      <td>1</td>
+      <td>2</td>
+      <td>1</td>
+      <td>5</td>
     </tr>
     <tr>
-      <td align="right">6</td>
+      <td>6</td>
       <td>
         Select, justify and apply architecture, patterns, services,
         technologies, and tools, to implement the software solution/s using
         current and emerging technologies.
       </td>
-      <td align="right">26</td>
+      <td>26</td>
       <td>
         Select, justify and apply architecture, patterns, services and tools to
         implement a software solution using current and emerging technology
       </td>
-      <td align="right">4</td>
-      <td align="right">1</td>
-      <td align="right">2</td>
-      <td align="right">1</td>
-      <td align="right">2</td>
-      <td align="right">2</td>
-      <td align="right">2</td>
-      <td align="right">1</td>
-      <td align="right">15</td>
-      <td align="right">15</td>
+      <td>4</td>
+      <td>1</td>
+      <td>2</td>
+      <td>1</td>
+      <td>2</td>
+      <td>2</td>
+      <td>2</td>
+      <td>1</td>
+      <td>15</td>
+      <td>15</td>
     </tr>
     <tr>
-      <td align="right">7</td>
-      <td>
+      <td rowspan="5" valign="top">7</td>
+      <td rowspan="5" valign="top">
         Apply IT technical support concepts and practice to securely manage
         hardware, software and networking resources to support end users and
         meet security, ethical and organisational requirements in a software
         development context.
       </td>
-      <td align="right">27</td>
+      <td>27</td>
       <td>Manually deploy application clients to an online web host</td>
-      <td align="right">1</td>
-      <td align="right"></td>
-      <td align="right">1</td>
-      <td align="right"></td>
-      <td align="right"></td>
-      <td align="right">1</td>
-      <td align="right"></td>
-      <td align="right">1</td>
-      <td align="right">4</td>
-      <td align="right">15</td>
+      <td>1</td>
+      <td></td>
+      <td>1</td>
+      <td></td>
+      <td></td>
+      <td>1</td>
+      <td></td>
+      <td>1</td>
+      <td>4</td>
+      <td rowspan="5" valign="top">15</td>
     </tr>
     <tr>
-      <td align="right"></td>
-      <td></td>
-      <td align="right">28</td>
+      <td>28</td>
       <td>Manually deploy application services to an online web host</td>
-      <td align="right"></td>
-      <td align="right">1</td>
-      <td align="right">1</td>
-      <td align="right"></td>
-      <td align="right"></td>
-      <td align="right"></td>
-      <td align="right"></td>
-      <td align="right">1</td>
-      <td align="right">3</td>
-      <td align="right"></td>
+      <td></td>
+      <td>1</td>
+      <td>1</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>1</td>
+      <td>3</td>
     </tr>
     <tr>
-      <td align="right"></td>
-      <td></td>
-      <td align="right">29</td>
+      <td>29</td>
       <td>
         Provision server infrastructure and services for software development
         and application hosting
       </td>
-      <td align="right"></td>
-      <td align="right">1</td>
-      <td align="right"></td>
-      <td align="right">1</td>
-      <td align="right">1</td>
-      <td align="right"></td>
-      <td align="right"></td>
-      <td align="right"></td>
-      <td align="right">3</td>
-      <td align="right"></td>
+      <td></td>
+      <td>1</td>
+      <td></td>
+      <td>1</td>
+      <td>1</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>3</td>
     </tr>
     <tr>
-      <td align="right"></td>
-      <td></td>
-      <td align="right">30</td>
+      <td>30</td>
       <td>
         Deploy software applications and services using continuous integration
         and continuous deployment techniques
       </td>
-      <td align="right"></td>
-      <td align="right"></td>
-      <td align="right"></td>
-      <td align="right">1</td>
-      <td align="right"></td>
-      <td align="right"></td>
-      <td align="right"></td>
-      <td align="right"></td>
-      <td align="right">1</td>
-      <td align="right"></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>1</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>1</td>
     </tr>
     <tr>
-      <td align="right"></td>
-      <td></td>
-      <td align="right">31</td>
+      <td>31</td>
       <td>
         Provision applications that securely interact with online services
       </td>
-      <td align="right"></td>
-      <td align="right">1</td>
-      <td align="right"></td>
-      <td align="right"></td>
-      <td align="right">1</td>
-      <td align="right">1</td>
-      <td align="right"></td>
-      <td align="right">1</td>
-      <td align="right">4</td>
-      <td align="right"></td>
+      <td></td>
+      <td>1</td>
+      <td></td>
+      <td></td>
+      <td>1</td>
+      <td>1</td>
+      <td></td>
+      <td>1</td>
+      <td>4</td>
     </tr>
     <tr>
-      <td align="right">8</td>
-      <td>
+      <td rowspan="2" valign="top">8</td>
+      <td rowspan="2" valign="top">
         Apply professional and ethical practices with integrity to meet the
         industry wide expectations of a responsible IT professional, in
         accordance with legal, regulatory and organisational requirements.
       </td>
-      <td align="right">32</td>
+      <td>32</td>
       <td>
         Apply professional, legal and ethical principles and practises in a
         socially responsible manner as an emerging IT professional
       </td>
-      <td align="right"></td>
-      <td align="right"></td>
-      <td align="right"></td>
-      <td align="right"></td>
-      <td align="right">1</td>
-      <td align="right">1</td>
-      <td align="right">2</td>
-      <td align="right">1</td>
-      <td align="right">5</td>
-      <td align="right">10</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>1</td>
+      <td>1</td>
+      <td>2</td>
+      <td>1</td>
+      <td>5</td>
+      <td rowspan="2" valign="top">10</td>
     </tr>
     <tr>
-      <td align="right"></td>
-      <td></td>
-      <td align="right">33</td>
+      <td>33</td>
       <td>
         Demonstrate management and compliance with legal and regulatory
         requirements including industry codes of practise and codes of conduct
       </td>
-      <td align="right"></td>
-      <td align="right"></td>
-      <td align="right"></td>
-      <td align="right">1</td>
-      <td align="right">1</td>
-      <td align="right">1</td>
-      <td align="right">1</td>
-      <td align="right">1</td>
-      <td align="right">5</td>
-      <td align="right"></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>1</td>
+      <td>1</td>
+      <td>1</td>
+      <td>1</td>
+      <td>1</td>
+      <td>5</td>
     </tr>
     <tr>
-      <td align="right">9</td>
-      <td>
+      <td rowspan="2" valign="top">9</td>
+      <td rowspan="2" valign="top">
         Apply communication, information design, teamwork, personal, and
         interpersonal skills, to enhance working effectiveness, efficiency, and
         quality outcomes in a variety of situations in an organisational
         environment.
       </td>
-      <td align="right">34</td>
+      <td>34</td>
       <td>
         Apply information design, technical writing and data visualisation of
         help resources, user instructions and specifications to enhance working
         effectiveness, efficiency, and quality outcomes.
       </td>
-      <td align="right"></td>
-      <td align="right"></td>
-      <td align="right">1</td>
-      <td align="right">1</td>
-      <td align="right"></td>
-      <td align="right"></td>
-      <td align="right">2</td>
-      <td align="right">1</td>
-      <td align="right">5</td>
-      <td align="right">10</td>
-    </tr>
-    <tr>
-      <td align="right"></td>
       <td></td>
-      <td align="right">35</td>
-      <td>Utilize and apply machine learning services or algorithms</td>
-      <td align="right"></td>
-      <td align="right"></td>
-      <td align="right"></td>
-      <td align="right"></td>
-      <td align="right"></td>
-      <td align="right"></td>
-      <td align="right">5</td>
-      <td align="right"></td>
-      <td align="right">5</td>
-      <td align="right"></td>
+      <td></td>
+      <td>1</td>
+      <td>1</td>
+      <td></td>
+      <td></td>
+      <td>2</td>
+      <td>1</td>
+      <td>5</td>
+      <td rowspan="2" valign="top">10</td>
     </tr>
     <tr>
-      <td align="right"></td>
-      <td>
+      <td>35</td>
+      <td>Utilize and apply machine learning services or algorithms</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>5</td>
+      <td></td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td rowspan="2" valign="top">10</td>
+      <td rowspan="2" valign="top">
         Apply project management tools and techniques, using critical thinking,
         enterprise skills and knowledge of project planning, management and
         control, to an IT related project, to analyse and solve problems.
       </td>
-      <td align="right">36</td>
+      <td>36</td>
       <td>
         Apply business logic and critical thinking in a project, considering
         organisational processes, enterprise skill, and innovation
       </td>
-      <td align="right"></td>
-      <td align="right">1</td>
-      <td align="right">1</td>
-      <td align="right">1</td>
-      <td align="right"></td>
-      <td align="right"></td>
-      <td align="right">3</td>
-      <td align="right">2</td>
-      <td align="right">8</td>
-      <td align="right">10</td>
+      <td></td>
+      <td>1</td>
+      <td>1</td>
+      <td>1</td>
+      <td></td>
+      <td></td>
+      <td>3</td>
+      <td>2</td>
+      <td>8</td>
+      <td rowspan="2" valign="top">10</td>
     </tr>
     <tr>
-      <td align="right"></td>
-      <td></td>
-      <td align="right">37</td>
+      <td>37</td>
       <td>Identify and mitigate software vulnerabilities</td>
-      <td align="right"></td>
-      <td align="right"></td>
-      <td align="right"></td>
-      <td align="right"></td>
-      <td align="right">1</td>
-      <td align="right"></td>
-      <td align="right">1</td>
-      <td align="right"></td>
-      <td align="right">2</td>
-      <td align="right"></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>1</td>
+      <td></td>
+      <td>1</td>
+      <td></td>
+      <td>2</td>
     </tr>
     <tr>
-      <td align="right"></td>
       <td></td>
-      <td align="right"></td>
+      <td></td>
+      <td></td>
       <td>Total Credits Per Course</td>
-      <td align="right">30</td>
-      <td align="right">30</td>
-      <td align="right">30</td>
-      <td align="right">30</td>
-      <td align="right">30</td>
-      <td align="right">30</td>
-      <td align="right">30</td>
-      <td align="right">30</td>
-      <td align="right">240</td>
-      <td align="right"></td>
+      <td>30</td>
+      <td>30</td>
+      <td>30</td>
+      <td>30</td>
+      <td>30</td>
+      <td>30</td>
+      <td>30</td>
+      <td>30</td>
+      <td>240</td>
+      <td></td>
     </tr>
   </tbody>
 </table>
